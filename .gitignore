@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Build PyInstaller
+build/
+dist/
+*.spec
+
+# File generati dall'app a runtime
+config.json
+cronologia.json
+archivio/
