@@ -1,6 +1,6 @@
 # File Watcher
 
-!\[Finestra principale](screenshot.png)
+![Finestra principale](screenshot.png)
 
 Utility **standalone per Windows** che monitora una cartella (tipicamente `Downloads`) e, quando compare un file, lo **sposta** in un'altra cartella oppure lo **invia a una stampante di rete**.
 
